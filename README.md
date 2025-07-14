@@ -43,7 +43,5 @@ Predict the house prices in Bengaluru based on features like location, number of
 ## ✅ Result
 Built a regression model with good accuracy to help estimate house prices in Bangalore.
 
-## 📎 Files Included
-- `Bengaluru_House_Data.ipynb`
 
 
